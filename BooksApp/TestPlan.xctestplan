@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "255C8A8E-B21F-4EA0-8537-ED616AB33FEA",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:BooksApp.xcodeproj",
+        "identifier" : "06BD48772E180992007C097B",
+        "name" : "BooksAppTests"
+      }
+    }
+  ],
+  "version" : 1
+}
